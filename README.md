@@ -19,4 +19,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

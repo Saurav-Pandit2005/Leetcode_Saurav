@@ -27,6 +27,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,5 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

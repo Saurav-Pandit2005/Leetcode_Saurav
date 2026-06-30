@@ -21,11 +21,13 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |

@@ -2,10 +2,12 @@
 
 A collection of my accepted **LeetCode** solutions in **Java**.
 
+<!---
 ## Tech Stack
 
 - Java
 - Data Structures & Algorithms
+-->
 
 > Solutions are automatically synced using LeetHub.
 

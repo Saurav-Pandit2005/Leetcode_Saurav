@@ -12,18 +12,18 @@ class Solution {
         // return x * sum;
 
         // Using Maths
-        long sum = 0, num = 0; 
+        long sum = 0, x = 0; 
         long i = 0;
         while(n > 0) {
             int rem = n%10;
             if(rem != 0) {
                 sum += rem;
-                num += (Math.pow(10,i) * rem);
+                x += (Math.pow(10,i) * rem);
                 i++;
             }
             n/=10;
         }
-        return sum * num;
+        return sum * x;
 
     }
 }

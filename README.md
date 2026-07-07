@@ -40,6 +40,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0009-palindrome-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
@@ -45,6 +46,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0027-remove-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
 ## String
 |  |

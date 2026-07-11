@@ -21,6 +21,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0035-search-insert-position](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

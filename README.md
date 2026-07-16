@@ -26,6 +26,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,4 +117,5 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->

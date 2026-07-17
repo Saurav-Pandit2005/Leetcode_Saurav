@@ -20,6 +20,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0027-remove-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +95,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
@@ -124,4 +126,5 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

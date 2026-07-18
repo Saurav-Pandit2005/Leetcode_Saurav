@@ -30,6 +30,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
+| [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
@@ -65,6 +66,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0001-two-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
+| [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Bit Manipulation

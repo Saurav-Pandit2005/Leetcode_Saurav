@@ -23,6 +23,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
 ## Recursion
@@ -166,4 +168,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

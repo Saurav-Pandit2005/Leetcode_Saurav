@@ -104,6 +104,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -113,6 +114,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
 ## String Matching
 |  |

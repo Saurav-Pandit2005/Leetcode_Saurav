@@ -113,6 +113,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
 ## String Matching
 |  |
 | ------- |

@@ -38,6 +38,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2104-sum-of-subarray-ranges) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -71,6 +72,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0728-self-dividing-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |

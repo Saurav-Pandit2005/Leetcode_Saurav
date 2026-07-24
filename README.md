@@ -40,6 +40,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1550-three-consecutive-odds](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |

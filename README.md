@@ -31,6 +31,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |

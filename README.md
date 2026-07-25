@@ -85,6 +85,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
 | [3099-harshad-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -179,6 +180,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |

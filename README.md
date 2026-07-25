@@ -38,6 +38,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1550-three-consecutive-odds) |
@@ -79,6 +80,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |

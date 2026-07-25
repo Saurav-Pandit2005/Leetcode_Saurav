@@ -39,6 +39,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1550-three-consecutive-odds) |
@@ -63,6 +64,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 ## Dynamic Programming

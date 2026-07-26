@@ -33,6 +33,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0260-single-number-iii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -182,6 +184,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |

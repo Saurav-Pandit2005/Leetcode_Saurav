@@ -1,5 +1,7 @@
 class Solution {
     public int maxProduct(int[] nums) {
+        // Array - O(n^2)
+
         int maxProduct = Integer.MIN_VALUE;
         for(int i=0; i<nums.length; i++) {
             for(int j=i+1; j<nums.length; j++) {

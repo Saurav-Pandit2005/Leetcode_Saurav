@@ -40,6 +40,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1200-minimum-absolute-difference) |
@@ -111,6 +112,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
@@ -255,4 +257,12 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->

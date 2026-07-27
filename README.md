@@ -86,6 +86,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0263-ugly-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |

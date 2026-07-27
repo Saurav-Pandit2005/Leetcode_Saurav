@@ -34,6 +34,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
@@ -70,6 +71,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
@@ -124,6 +126,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0137-single-number-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -143,6 +146,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |

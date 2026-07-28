@@ -88,6 +88,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0069-sqrtx](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
@@ -195,6 +196,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
@@ -221,6 +223,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0258-add-digits) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 ## Counting
 |  |

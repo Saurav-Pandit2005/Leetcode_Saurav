@@ -110,6 +110,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3536-maximum-product-of-two-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sorting
 |  |
 | ------- |

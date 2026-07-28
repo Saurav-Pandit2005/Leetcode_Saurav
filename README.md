@@ -40,6 +40,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
@@ -118,6 +119,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -133,6 +135,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

@@ -108,6 +108,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
 | [3099-harshad-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

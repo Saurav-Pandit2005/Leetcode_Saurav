@@ -16,14 +16,20 @@ class Solution {
 
         // Using Array - O(n)
 
-        int leftSum = 0;
-        int rightSum = n*(n+1)/2;
+        // int leftSum = 0;
+        // int rightSum = n*(n+1)/2;
 
-        for(int k=1; k<=n; k++) {
-            leftSum += k;
-            rightSum -= (k-1);
-            if(leftSum == rightSum) return k;
-        }
-        return -1;
+        // for(int k=1; k<=n; k++) {
+        //     leftSum += k;
+        //     rightSum -= (k-1);
+        //     if(leftSum == rightSum) return k;
+        // }
+        // return -1;
+
+        // Using Math
+
+        int cumSum = n*(n+1)/2;
+        int pivot = (int) Math.sqrt(cumSum);
+        return (pivot * pivot == cumSum) ? pivot : -1;
     }
 }

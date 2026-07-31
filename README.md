@@ -116,6 +116,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2469-convert-the-temperature) |

@@ -76,6 +76,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -134,6 +135,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3945-digit-frequency-score) |
 ## Hash Table

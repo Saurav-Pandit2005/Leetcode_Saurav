@@ -60,6 +60,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -214,6 +215,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String Matching
 |  |
 | ------- |

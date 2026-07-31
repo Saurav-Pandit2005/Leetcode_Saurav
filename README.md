@@ -121,6 +121,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2469-convert-the-temperature](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

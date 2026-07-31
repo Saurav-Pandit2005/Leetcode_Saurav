@@ -289,6 +289,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -324,4 +325,16 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0319-bulb-switcher) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

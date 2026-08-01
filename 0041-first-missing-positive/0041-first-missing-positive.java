@@ -1,19 +1,19 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        // Using HashMap    -> TC - O(n)     -> SC - O(n)
-        
-        HashMap<Integer, Integer> map = new HashMap<>();
+        // Using HashSet    -> TC - O(n)     -> SC - O(n)
+
+        HashSet<Integer> set = new HashSet<>();
         for(int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            set.add(num);
         }
 
-        int n = nums.length; 
+        int n = nums.length+1; 
 
         for(int i=1; i<=n; i++) {
-            if(!map.containsKey(i)) {
+            if(!set.contains(i)) {
                 return i;
             }
         }
-        return n+1;
+        return -1;
     }
 }

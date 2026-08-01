@@ -78,6 +78,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3925-concatenate-array-with-reverse) |
@@ -284,6 +285,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
+| [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -303,6 +305,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |

@@ -169,6 +169,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -226,6 +227,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3280-convert-date-to-binary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3280-convert-date-to-binary) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
 | ------- |

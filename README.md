@@ -173,6 +173,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0078-subsets](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
@@ -312,6 +313,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |

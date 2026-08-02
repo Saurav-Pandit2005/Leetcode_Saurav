@@ -46,6 +46,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0922-sort-array-by-parity-ii) |
@@ -121,6 +122,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -243,6 +245,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
 ## Memoization
 |  |
@@ -379,4 +382,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0145-binary-tree-postorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -83,6 +83,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -174,6 +175,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -299,6 +301,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |

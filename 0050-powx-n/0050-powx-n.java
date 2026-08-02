@@ -1,5 +1,7 @@
 class Solution {
     public double myPow(double x, long n) {
+        // Using Binary Search
+
         // long binary = n;
 
         // if(n < 0){
@@ -18,16 +20,41 @@ class Solution {
         // }
         // return answer;
         
+
         // Using Recursion
-        if(n < 0) return 1.0 / myPow(x, -n);
-        if(n == 0) return 1;
-        double halfPower = myPow(x, n/2);
-        // if n is even
-        double halfPowerSquare = halfPower * halfPower;
-        // if n is odd
-        if(n % 2 != 0) {
-            halfPowerSquare = x * halfPowerSquare;
+
+        // if(n < 0) return 1.0 / myPow(x, -n);
+        // if(n == 0) return 1;
+        // double halfPower = myPow(x, n/2);
+        // // if n is even
+        // double halfPowerSquare = halfPower * halfPower;
+        // // if n is odd
+        // if(n % 2 != 0) {
+        //     halfPowerSquare = x * halfPowerSquare;
+        // }
+        // return halfPowerSquare;
+
+
+        // Using Bit Manipulation
+
+        long N = n;       
+
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
         }
-        return halfPowerSquare;
+
+        double ans = 1;
+
+         while (N > 0) {
+            if ((N & 1) == 1) {
+                ans = ans * x;
+            }
+
+            x = x * x;
+            N = N >> 1;
+        }
+
+        return ans;
     }
 }

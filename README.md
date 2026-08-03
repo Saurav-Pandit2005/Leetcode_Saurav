@@ -177,6 +177,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -240,6 +241,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3280-convert-date-to-binary) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
@@ -329,6 +331,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |

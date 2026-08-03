@@ -69,6 +69,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -236,6 +237,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1980-find-unique-binary-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3280-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -312,6 +314,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0258-add-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |

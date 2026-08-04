@@ -70,6 +70,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -228,6 +229,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0922-sort-array-by-parity-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -312,6 +314,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -382,6 +385,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting Sort
 |  |

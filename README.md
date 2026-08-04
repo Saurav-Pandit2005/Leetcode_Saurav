@@ -78,6 +78,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
@@ -312,6 +313,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
@@ -380,6 +382,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting Sort
 |  |
 | ------- |

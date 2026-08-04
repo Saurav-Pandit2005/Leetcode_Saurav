@@ -44,6 +44,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
@@ -319,6 +320,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -354,6 +356,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0682-baseball-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |

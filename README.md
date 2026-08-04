@@ -47,6 +47,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0682-baseball-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0905-sort-array-by-parity) |
@@ -256,6 +257,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0054-spiral-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |

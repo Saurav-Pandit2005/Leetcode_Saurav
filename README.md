@@ -248,6 +248,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1980-find-unique-binary-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2011-final-value-of-variable-after-performing-operations) |

@@ -242,6 +242,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
@@ -368,6 +369,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0145-binary-tree-postorder-traversal) |
@@ -432,4 +434,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

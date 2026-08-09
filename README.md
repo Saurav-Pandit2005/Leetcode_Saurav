@@ -27,6 +27,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0059-spiral-matrix-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0137-single-number-ii) |
@@ -375,6 +376,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0145-binary-tree-postorder-traversal) |
@@ -383,6 +385,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0084-largest-rectangle-in-histogram) |
 | [2104-sum-of-subarray-ranges](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
@@ -443,4 +446,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

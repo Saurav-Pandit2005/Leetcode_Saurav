@@ -1,5 +1,8 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+
+        // Using Hashing
+
         // HashMap<Integer, Integer> map = new HashMap<>();
         // for(int i=0; i<nums.length; i++) {
         //     int difference = target - nums[i];
@@ -8,6 +11,8 @@ class Solution {
         //     } else map.put(nums[i], i);
         // }
         // return null;
+
+        // Using Array
 
         for(int i=0; i<nums.length; i++) {
             for(int j=i+1; j<nums.length; j++) {

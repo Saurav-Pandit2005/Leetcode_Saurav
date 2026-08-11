@@ -175,6 +175,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -208,6 +209,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
@@ -252,6 +254,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0058-length-of-last-word](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
@@ -314,6 +317,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |

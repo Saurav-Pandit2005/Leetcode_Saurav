@@ -89,6 +89,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
+| [2951-find-the-peaks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2951-find-the-peaks) |
 | [3115-maximum-prime-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3115-maximum-prime-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -296,6 +297,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |

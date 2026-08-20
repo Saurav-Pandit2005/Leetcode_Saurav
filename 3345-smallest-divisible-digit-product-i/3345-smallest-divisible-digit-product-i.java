@@ -1,6 +1,5 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-
         while(true) {
             int num = n;
             int product = 1;
@@ -12,7 +11,6 @@ class Solution {
             }
 
             if(product % t == 0) return n;
-
             n++;
         }
     }

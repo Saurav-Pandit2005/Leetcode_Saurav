@@ -462,4 +462,12 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0084-largest-rectangle-in-histogram) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

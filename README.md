@@ -18,6 +18,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0001-two-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -256,6 +257,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0058-length-of-last-word) |
@@ -471,4 +473,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

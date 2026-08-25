@@ -97,6 +97,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3925-concatenate-array-with-reverse) |
@@ -201,6 +202,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3945-digit-frequency-score) |

@@ -15,6 +15,7 @@ class Solution {
             multiple += k;
 
             if(k <= 0) return -1;
+
         }
     }
 }

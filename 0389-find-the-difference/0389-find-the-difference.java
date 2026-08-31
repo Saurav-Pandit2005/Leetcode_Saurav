@@ -1,6 +1,5 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-
         int sumS = 0;
         int sumT = 0;
 
@@ -11,7 +10,6 @@ class Solution {
         for(int i=0; i<t.length(); i++) {
             sumT += t.charAt(i);
         }
-
         return (char) (sumT - sumS);
     }
 }

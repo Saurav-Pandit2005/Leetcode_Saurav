@@ -1,5 +1,6 @@
 class Solution {
     public int hammingWeight(int n) {
+        
         // Using InBuilt Class
 
         // int count = Integer.bitCount(n);

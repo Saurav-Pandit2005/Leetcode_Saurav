@@ -99,6 +99,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -171,6 +172,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3945-digit-frequency-score) |

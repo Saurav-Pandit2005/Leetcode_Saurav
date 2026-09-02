@@ -115,6 +115,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0268-missing-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
@@ -138,6 +139,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0319-bulb-switcher](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |

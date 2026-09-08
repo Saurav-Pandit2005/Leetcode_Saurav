@@ -1,9 +1,7 @@
 class Solution {
     public int maximumPrimeDifference(int[] nums) {
-
         int first = -1;
         int last = -1;
-
         for(int i=0; i<nums.length; i++) {
             if(isPrime(nums[i])) {
                 if(first == -1) {
@@ -12,9 +10,7 @@ class Solution {
                 last = i;
             }
         }
-
         int ans = Math.abs(last - first);
-
         return ans;
     }
 

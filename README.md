@@ -483,4 +483,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0014-longest-common-prefix) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->

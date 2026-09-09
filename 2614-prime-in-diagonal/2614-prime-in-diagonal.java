@@ -3,11 +3,13 @@ class Solution {
         int largest = 0;
         int n = nums.length;
         for(int i=0; i<n; i++) {
+
             // Primary Diagonal
             int primary = nums[i][i];
             if(isPrime(primary)) {
                 largest = Math.max(largest, primary);
             }
+
             // Secondry Diagonal
             int secondry = nums[i][n-1-i];
             if(isPrime(secondry)) {

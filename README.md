@@ -68,6 +68,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1550-three-consecutive-odds](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
@@ -439,6 +440,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
 |  |

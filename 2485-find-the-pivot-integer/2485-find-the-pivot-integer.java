@@ -1,5 +1,6 @@
 class Solution {
     public int pivotInteger(int n) {
+        
         // Using Array - O(n^2)
 
         // for(int k=1; k<=n; k++) {

@@ -1,6 +1,8 @@
 class Solution {
     public int matrixSum(int[][] nums) {
+
         int result = 0;
+        
         for(int[] row : nums) {
             Arrays.sort(row);
         }

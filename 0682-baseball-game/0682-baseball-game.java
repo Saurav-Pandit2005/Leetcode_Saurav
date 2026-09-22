@@ -1,5 +1,6 @@
 class Solution {
     public int calPoints(String[] operations) {
+        
         // Using ArrayList
 
         List<Integer> list = new ArrayList<>();

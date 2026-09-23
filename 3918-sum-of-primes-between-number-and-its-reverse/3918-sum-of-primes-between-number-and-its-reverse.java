@@ -7,7 +7,6 @@ class Solution {
             r = r * 10 + lastdigit;
             x/=10;
         }
-
         int min = Math.min(n, r);
         int max = Math.max(n, r);
 

@@ -1,5 +1,6 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
+        
         // Using Array
 
         // if(n == 0) return false;

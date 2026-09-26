@@ -131,6 +131,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0009-palindrome-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0189-rotate-array) |
@@ -183,6 +184,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0001-two-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
@@ -267,6 +269,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |

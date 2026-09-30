@@ -91,6 +91,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 | [2951-find-the-peaks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2951-find-the-peaks) |
@@ -126,6 +127,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -264,6 +267,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
+| [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |

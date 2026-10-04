@@ -4,7 +4,6 @@ class Solution {
         for(int num : nums1) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
-
         List<Integer> ans = new ArrayList<>();
         for(int i = 0; i<nums2.length; i++) {
             if(map.containsKey(nums2[i])) {
@@ -23,7 +22,6 @@ class Solution {
         for(int om : ans) {
             result[j++] = om;
         }
-        
         return result;
     }    
 }

@@ -95,6 +95,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2951-find-the-peaks) |
 | [3115-maximum-prime-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3115-maximum-prime-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -327,6 +328,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory

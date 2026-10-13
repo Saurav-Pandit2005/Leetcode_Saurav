@@ -104,6 +104,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3618-split-array-by-prime-indices) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
@@ -379,6 +380,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -447,6 +449,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |

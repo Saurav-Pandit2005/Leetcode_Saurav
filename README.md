@@ -182,6 +182,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3618-split-array-by-prime-indices](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3895-count-digit-appearances) |
@@ -449,6 +450,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |

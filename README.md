@@ -96,6 +96,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2951-find-the-peaks) |
 | [3115-maximum-prime-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3115-maximum-prime-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -218,6 +219,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -516,4 +518,12 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3115-maximum-prime-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,7 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        // Using HashTable
+        
+        // Using Hashing
 
         // HashMap<Integer, Integer> map = new HashMap<>();
         // List<Integer> result = new ArrayList<>();

@@ -67,6 +67,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1480-running-sum-of-1d-array) |
@@ -160,6 +161,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0728-self-dividing-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2235-add-two-integers) |
@@ -526,4 +528,12 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->

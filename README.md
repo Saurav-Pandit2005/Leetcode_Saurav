@@ -307,6 +307,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [3280-convert-date-to-binary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
 | ------- |

@@ -172,6 +172,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [2469-convert-the-temperature](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2894-divisible-and-non-divisible-sums-difference) |

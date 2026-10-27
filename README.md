@@ -48,6 +48,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0561-array-partition) |

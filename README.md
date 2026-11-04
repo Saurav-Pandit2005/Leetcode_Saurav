@@ -221,6 +221,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -309,6 +310,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0541-reverse-string-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0709-to-lower-case) |
+| [0791-custom-sort-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0791-custom-sort-string) |
 | [1108-defanging-an-ip-address](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1980-find-unique-binary-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1980-find-unique-binary-string) |
@@ -384,6 +386,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |

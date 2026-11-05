@@ -72,6 +72,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -138,6 +139,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0633-sum-of-square-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2540-minimum-common-value) |
@@ -286,6 +288,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0905-sort-array-by-parity](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -391,6 +394,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0922-sort-array-by-parity-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1679-max-number-of-k-sum-pairs) |

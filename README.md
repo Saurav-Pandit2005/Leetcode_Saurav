@@ -31,6 +31,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0074-search-a-2d-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0137-single-number-ii) |
@@ -274,6 +275,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0016-3sum-closest](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0189-rotate-array) |
@@ -375,6 +377,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | ------- |
 | [0015-3sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |

@@ -41,6 +41,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0283-move-zeroes) |
@@ -215,6 +216,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0041-first-missing-positive](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0349-intersection-of-two-arrays) |
@@ -382,6 +384,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0164-maximum-gap](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0349-intersection-of-two-arrays) |
@@ -429,6 +432,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -573,4 +577,8 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

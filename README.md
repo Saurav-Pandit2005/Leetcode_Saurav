@@ -74,6 +74,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1207-unique-number-of-occurrences](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -175,6 +176,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0728-self-dividing-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -501,6 +503,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
@@ -582,4 +585,12 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

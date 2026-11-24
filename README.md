@@ -81,6 +81,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -178,6 +179,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1390-four-divisors) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2235-add-two-integers) |
@@ -354,6 +356,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0509-fibonacci-number](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1014-best-sightseeing-pair) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of my accepted **LeetCode** solutions in **Java**.
 | [0930-binary-subarrays-with-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/0930-binary-subarrays-with-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Saurav-Pandit2005/Leetcode_Saurav/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
 |  |
